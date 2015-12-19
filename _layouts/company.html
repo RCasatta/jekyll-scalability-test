@@ -17,7 +17,7 @@ layout: default
     {% for person in page.people %}
       {% for apage in site.pages %}
         {% if apage.id == person %}
-         <li><a href="/people/{{ person }}">{{ apage.title }}</a></li>
+         <li><a href="{{ site.baseurl }}/people/{{ person }}">{{ apage.title }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}
