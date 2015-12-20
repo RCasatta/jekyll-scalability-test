@@ -17,3 +17,8 @@ github_username:  blockchainlab
 
 # Build settings
 markdown: kramdown
+
+
+github:
+  repo: https://github.com/RCasatta/jekyll-scalability-test
+  editpost: https://github.com/RCasatta/jekyll-scalability-test/edit/gh-pages/
