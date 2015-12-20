@@ -2,10 +2,7 @@
 layout: company
 id: hurry
 title: Hurry
-founded: 2002
-country: Italy
-permalink: /companies/hurry
-people: []
+permalink: /companies/hurry.html
 ---
 
-Dettagli della compagnia hurry
+Dettagli della compagnia Hurry
