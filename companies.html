@@ -23,6 +23,7 @@ permalink: /companies/
       <a href="{{ '.html' | prepend: key | prepend: '/companies/' | prepend: site.baseurl }}">
         {{ company.name }}
       </a>
+      ({{ company.people.size }})
     </li>
     {% endfor %}
   </ul>
