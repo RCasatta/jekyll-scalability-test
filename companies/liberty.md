@@ -5,4 +5,4 @@ title: Liberty
 permalink: /companies/liberty.html
 ---
 
-Dettagli della compagnia Liberty
+Company details...

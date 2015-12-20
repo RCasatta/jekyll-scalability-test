@@ -5,4 +5,4 @@ title: Kitten
 permalink: /companies/kitten.html
 ---
 
-Dettagli della compagnia Kitten
+Company details...

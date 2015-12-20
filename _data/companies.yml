@@ -1,500 +1,500 @@
-post:
-  name: Post
+struggle:
+  name: Struggle
+  founded: 2001
+  country: USA
+  people: [globe.inherit, cement.desert, devote.joy, original.plate, cereal.main, digital.alien, fine.charge, patient.sibling, sting.light]
+bachelor:
+  name: Bachelor
+  founded: 2013
+  country: Spain
+  people: [transfer.primary, quantum.oil, dinosaur.street, police.orange, forget.armed, upgrade.timber]
+toilet:
+  name: Toilet
+  founded: 2006
+  country: Spain
+  people: [wife.crime, urban.silver, pumpkin.meadow, another.cool, mother.alcohol]
+rain:
+  name: Rain
+  founded: 2012
+  country: France
+  people: [all.fitness, reform.dilemma, attend.faith, vacuum.protect, later.current, master.junior]
+economy:
+  name: Economy
   founded: 2008
   country: USA
-  people: [discover.bright, waste.garbage, area.success]
-save:
-  name: Save
-  founded: 2012
-  country: UK
-  people: [trust.chalk, enact.host, anchor.keep, bamboo.awkward, slide.vehicle, shoot.inmate, edit.focus, jaguar.organ, suit.bless, hidden.canvas]
-toast:
-  name: Toast
-  founded: 2000
-  country: Italy
-  people: [movie.truck, barely.march, crane.topple, patrol.chaos, cover.brisk, height.subject, plastic.giraffe]
-fantasy:
-  name: Fantasy
+  people: [belt.dignity, select.slender, misery.hope, dumb.weapon, add.found, rib.course, sail.expire, during.dinner, side.attitude, giggle.message, maximum.give]
+century:
+  name: Century
+  founded: 2008
+  country: France
+  people: [soldier.random, mention.labor, harsh.breeze, mercy.remind, spawn.price, foil.disagree, near.modify, life.key, umbrella.lazy, sword.series, protect.stay]
+boss:
+  name: Boss
   founded: 2014
-  country: Germany
-  people: [erupt.throw, able.enroll, insane.trade, burger.shift, flee.cherry, bundle.code, share.adult]
-scene:
-  name: Scene
-  founded: 2014
-  country: Italy
-  people: [enemy.hybrid, cactus.close, excess.wing, expect.essence, sibling.render]
-range:
-  name: Range
-  founded: 2003
-  country: Italy
-  people: [gain.hover, ski.gorilla, liar.rather]
-motor:
-  name: Motor
-  founded: 2012
-  country: China
-  people: [unknown.orphan, ensure.make, trumpet.toe, mail.inhale, pledge.ignore, harbor.then, betray.vast, sport.forest, undo.check, develop.patrol, actress.weapon, guilt.bread, grace.fuel, hurry.enter, bachelor.human, neck.brass, chunk.atom, vibrant.know, mystery.meat, armed.right]
-card:
-  name: Card
-  founded: 2004
-  country: France
-  people: [antenna.moon, animal.notable, odor.coach, elephant.other, bicycle.electric]
-symptom:
-  name: Symptom
-  founded: 2001
-  country: France
-  people: [poem.sweet, tell.please, grant.purse, tree.seek, pulp.transfer, buffalo.toilet, moment.vanish, record.taste]
-drop:
-  name: Drop
-  founded: 2001
-  country: Germany
-  people: [girl.improve, unlock.throw, spell.gravity, rude.primary, valley.kid, peace.law, purse.furnace, original.region, phone.essay, gain.oven, confirm.fade]
-upon:
-  name: Upon
-  founded: 2009
-  country: China
-  people: [horse.tape, upgrade.search, speed.identify, sunset.obscure, hub.short, obscure.loan, cereal.intact, suit.wage, assault.unaware, assist.hover, ethics.box]
-loud:
-  name: Loud
-  founded: 2006
-  country: China
-  people: [adjust.pet, expect.border, include.helmet, dismiss.tide, orbit.initial, daring.wisdom, genuine.valve, shadow.armed, chunk.cigar, creek.pill, caution.enemy, pistol.window]
-churn:
-  name: Churn
-  founded: 2006
-  country: China
-  people: [rally.pitch, scheme.misery, sustain.vault, rather.still, rebuild.soon, fine.census, crazy.luggage]
-horn:
-  name: Horn
-  founded: 2003
-  country: Germany
-  people: [announce.float, prevent.book, margin.wild, repair.link, utility.unveil, vapor.energy, appear.treat, lounge.mystery, regret.service, retire.brick]
-tell:
-  name: Tell
-  founded: 2009
-  country: France
-  people: [omit.coffee, acquire.pyramid, average.enact, bargain.problem, bounce.title, gorilla.duck, sadness.opinion, match.magic, race.garlic]
-party:
-  name: Party
-  founded: 2001
-  country: China
-  people: [acoustic.blue, enrich.sphere, heavy.evoke, endless.indoor]
-pyramid:
-  name: Pyramid
-  founded: 2007
-  country: Italy
-  people: [answer.blossom, stamp.useless, present.demand, purse.reopen, street.guide]
-hockey:
-  name: Hockey
-  founded: 2010
-  country: UK
-  people: [embody.rail, crucial.table, inquiry.oil, blush.pretty, lobster.brain, flame.duck, toward.asset, escape.front]
-one:
-  name: One
-  founded: 2002
-  country: China
-  people: [capital.fresh, mad.antique, clarify.defense, tip.age, clinic.review, issue.damp, virtual.arctic, daughter.achieve, pumpkin.sadness, chaos.scheme, huge.coin, gossip.real, dish.shoe]
-pact:
-  name: Pact
-  founded: 2002
-  country: UK
-  people: [trash.puppy, rapid.outside, hill.axis]
-surface:
-  name: Surface
-  founded: 2001
-  country: France
-  people: [glove.adapt, theory.hockey, matter.gown, before.glass, episode.truck, shoe.bonus, priority.lens, flavor.cancel]
-broccoli:
-  name: Broccoli
-  founded: 2006
-  country: Germany
-  people: [spread.picture, jar.cool, hobby.broccoli, pull.maid, crunch.animal]
-bacon:
-  name: Bacon
+  country: USA
+  people: [century.forest]
+govern:
+  name: Govern
   founded: 2005
-  country: Italy
-  people: [click.better, execute.radio, hole.slow, disagree.seed, better.magic, annual.burger]
-limb:
-  name: Limb
-  founded: 2000
-  country: UK
-  people: [drip.nominee, basic.snow]
-burden:
-  name: Burden
-  founded: 2002
-  country: USA
-  people: [example.six, luxury.execute, monkey.error, amount.wheel, goose.come]
-cheese:
-  name: Cheese
-  founded: 2011
-  country: Italy
-  people: [light.satisfy, office.friend, neither.asset, dinosaur.option, identify.gym, diet.try, unable.gate, cargo.zero, toe.fossil, truth.custom]
-motor:
-  name: Motor
-  founded: 2004
-  country: USA
-  people: [unknown.orphan, ensure.make, trumpet.toe, mail.inhale, pledge.ignore, harbor.then, betray.vast, sport.forest, undo.check, develop.patrol, actress.weapon, guilt.bread, grace.fuel, hurry.enter, bachelor.human, neck.brass, chunk.atom, vibrant.know, mystery.meat, armed.right]
-soldier:
-  name: Soldier
-  founded: 2012
   country: China
-  people: [rookie.shy, truck.profit, grunt.impulse, firm.destroy, matrix.vivid, veteran.nothing, recipe.situate, ride.laundry, worth.reveal]
-cargo:
-  name: Cargo
-  founded: 2008
-  country: Italy
-  people: [ripple.stool, badge.door, letter.poverty, early.pipe, fossil.outer, front.awake, piece.rotate, weasel.flip]
-spice:
-  name: Spice
-  founded: 2007
-  country: USA
-  people: [plug.spike, fringe.detail, toward.zoo, pride.also, march.clog, travel.time, text.combine, accuse.worry, lab.book, between.north, attract.call, grain.huge, globe.sniff, private.object, valid.taste, mobile.fee, voyage.nuclear, base.auction, tuition.nasty, unlock.gentle, dinner.creek, increase.suffer, bracket.scene, hotel.choose]
-image:
-  name: Image
-  founded: 2009
-  country: Germany
-  people: [direct.valid, clown.candy, outer.cool, zone.modify, ten.sketch, plate.paper, garbage.rich]
-lock:
-  name: Lock
-  founded: 2001
-  country: UK
-  people: [black.embrace, theme.column, head.merit, canyon.unfold, employ.shallow, push.have]
-cause:
-  name: Cause
-  founded: 2011
-  country: Italy
-  people: [scout.slight, throw.turtle, surge.maid, brisk.define, quiz.bargain, logic.mother, morning.prevent, raven.ocean, rude.grass, fix.sibling]
-slice:
-  name: Slice
-  founded: 2012
-  country: France
-  people: [example.coconut, sign.hair, system.appear, solve.smoke, suit.again, angle.uncle]
-one:
-  name: One
-  founded: 2010
-  country: China
-  people: [capital.fresh, mad.antique, clarify.defense, tip.age, clinic.review, issue.damp, virtual.arctic, daughter.achieve, pumpkin.sadness, chaos.scheme, huge.coin, gossip.real, dish.shoe]
-slender:
-  name: Slender
-  founded: 2002
-  country: France
-  people: [bid.elite, price.camp, logic.wage, mask.accident, diagram.soap, ill.liberty, all.mail, solid.sail]
-silver:
-  name: Silver
-  founded: 2001
-  country: China
-  people: [attract.fiction, credit.insane, small.lawn, senior.gold, stadium.flat, salmon.truck, rifle.lake, riot.brief, boil.hurry, rookie.shrimp]
-mistake:
-  name: Mistake
-  founded: 2000
-  country: USA
-  people: [desk.galaxy, away.skull, field.exit]
-increase:
-  name: Increase
-  founded: 2009
-  country: Italy
-  people: [else.earn, crumble.charge, weekend.chest, similar.submit, view.eternal, utility.crater, skull.tail, echo.excess, shoot.brick]
-ecology:
-  name: Ecology
-  founded: 2003
-  country: Italy
-  people: [annual.hope, like.firm, nuclear.wood, person.mention, wild.sight, dinner.stick]
-amazing:
-  name: Amazing
-  founded: 2000
-  country: Italy
-  people: [blame.offer, visit.proof, relax.office, lift.decline, orange.water, palace.scrub, picture.fun, cream.employ, employ.venture, mail.bench, ghost.raw, wheat.young]
+  people: [brisk.salad, auction.narrow, artist.capable, crime.brush, foot.pet, spell.robot]
 domain:
   name: Domain
-  founded: 2000
-  country: USA
-  people: [member.budget, build.thought, adapt.toy, penalty.vacuum, enlist.ozone, pig.rail, popular.secret]
-jacket:
-  name: Jacket
-  founded: 2012
-  country: France
-  people: [tackle.what, begin.sell, alter.access, person.crazy, feature.laptop, trigger.author, creek.chat, frown.cement, skirt.stomach]
-electric:
-  name: Electric
   founded: 2013
   country: Germany
-  people: [token.garden, tent.pulse, foot.stay, impact.roof, hollow.honey, cotton.task, easily.super, outer.pipe, dial.water]
-empty:
-  name: Empty
-  founded: 2000
-  country: UK
-  people: [celery.undo, artist.name, core.govern, outer.exchange]
-deposit:
-  name: Deposit
-  founded: 2003
-  country: China
-  people: [degree.minute, inmate.wish, isolate.turn, royal.umbrella]
-source:
-  name: Source
-  founded: 2004
-  country: France
-  people: [ensure.angle, approve.among, asthma.cloth, scissors.margin, citizen.multiply, pattern.awesome, sugar.brush]
-cash:
-  name: Cash
+  people: [brisk.learn, install.siege, cause.debris, kit.orbit, distance.trumpet, luggage.reunion, fun.snack]
+describe:
+  name: Describe
   founded: 2014
-  country: Germany
-  people: [chief.sand, prefer.gallery, tail.sure, shine.scare]
-elder:
-  name: Elder
-  founded: 2004
   country: France
-  people: [spend.cotton, disagree.machine, law.across, require.language, used.cube, obvious.ask, spell.glass, tired.ripple, abandon.claim]
-early:
-  name: Early
-  founded: 2004
-  country: Italy
-  people: [cargo.ramp, clock.olympic, scissors.mail, kangaroo.mechanic]
-mention:
-  name: Mention
-  founded: 2010
-  country: France
-  people: [pear.nerve, entire.border, asthma.boost, penalty.flee, coil.gaze, charge.welcome]
-sun:
-  name: Sun
-  founded: 2010
-  country: UK
-  people: [rice.announce, rabbit.index, lamp.glove, million.cushion, shrug.soldier, goose.fix, leave.rocket, rigid.avocado]
-nasty:
-  name: Nasty
+  people: [cause.cheap, soup.useful, urban.stove, salad.spawn, canoe.cheap, rhythm.home, mother.soon, inquiry.first, sick.wolf, adult.file, awesome.bamboo, sauce.novel, exclude.raw]
+midnight:
+  name: Midnight
   founded: 2005
-  country: UK
-  people: [detect.choice, bacon.stool, goose.prepare, crisp.manual, wood.robust, develop.worry, possible.vote, jaguar.chuckle, debate.donkey, eternal.cram, ghost.category]
-hurry:
-  name: Hurry
-  founded: 2003
-  country: UK
-  people: [suit.salute, seven.angle, badge.jacket, balance.wheat, lamp.floor, knee.toward]
+  country: France
+  people: [dad.measure, maid.celery, vendor.weasel, either.silver, kangaroo.treat, horse.tennis]
+quick:
+  name: Quick
+  founded: 2008
+  country: France
+  people: [dolphin.width, car.system, victory.scene, account.want, click.use]
+absent:
+  name: Absent
+  founded: 2008
+  country: Italy
+  people: [unfold.term, february.keep, abandon.absurd, attitude.grace, struggle.spoil, marble.manage, slab.property, pretty.midnight, write.second, carpet.stay, fish.advance]
 kitten:
   name: Kitten
-  founded: 2012
-  country: UK
-  people: [earth.oven, real.beyond, citizen.insane, citizen.exist, perfect.proof, shell.dismiss, walk.orphan, bleak.note, never.quarter]
-spice:
-  name: Spice
-  founded: 2014
-  country: China
-  people: [plug.spike, fringe.detail, toward.zoo, pride.also, march.clog, travel.time, text.combine, accuse.worry, lab.book, between.north, attract.call, grain.huge, globe.sniff, private.object, valid.taste, mobile.fee, voyage.nuclear, base.auction, tuition.nasty, unlock.gentle, dinner.creek, increase.suffer, bracket.scene, hotel.choose]
-bid:
-  name: Bid
   founded: 2013
-  country: USA
-  people: [robust.engage, actress.motor, long.pattern, cave.body, sail.arctic, verify.visual, access.artwork, offer.chair]
-hybrid:
-  name: Hybrid
-  founded: 2010
-  country: France
-  people: [swear.lunch, secret.jump, various.since, affair.great, scorpion.humble, divert.slush]
-dinosaur:
-  name: Dinosaur
-  founded: 2001
-  country: China
-  people: [snow.rookie, sugar.bamboo, letter.joy, beyond.business, excuse.dash, bless.current, wheat.turn]
-alcohol:
-  name: Alcohol
-  founded: 2002
   country: Spain
-  people: [quality.toast, sniff.physical, decide.trust, usage.enact, claw.tip, vicious.jealous, glide.debate, mail.letter, ugly.image]
-caution:
-  name: Caution
-  founded: 2011
-  country: Spain
-  people: [inflict.mom, machine.plastic, describe.office, moment.canal, crowd.priority, idea.badge, hunt.surface, friend.obvious]
-valid:
-  name: Valid
-  founded: 2012
-  country: Germany
-  people: [round.kitten, evidence.math, surround.cause, unaware.dignity, enlist.narrow, logic.ethics]
-fuel:
-  name: Fuel
-  founded: 2002
-  country: France
-  people: [worth.off, casual.team, defy.purchase, business.obtain, anxiety.order]
-woman:
-  name: Woman
-  founded: 2010
-  country: Germany
-  people: [fruit.merry, enhance.cotton, lobster.aim, print.excuse, one.ugly, carpet.immense, dawn.raven, weekend.buffalo, civil.talent, pact.buyer, uniform.car, spirit.mad]
-frost:
-  name: Frost
-  founded: 2005
-  country: China
-  people: [pepper.subject, wheel.myth, bacon.kit, critic.like, design.blue, amount.system, knife.globe, steak.sudden, benefit.soap]
-little:
-  name: Little
-  founded: 2002
-  country: Italy
-  people: [attack.book, coach.retire, flight.polar, install.abstract]
-release:
-  name: Release
-  founded: 2004
-  country: Spain
-  people: [neglect.frog, either.dress, silver.lottery, entire.december, image.romance, tattoo.local]
-hello:
-  name: Hello
-  founded: 2002
-  country: France
-  people: [please.member, muscle.wire, around.click, skill.bring, more.job, test.street, topple.exist, news.base, tissue.heavy]
-thrive:
-  name: Thrive
-  founded: 2014
-  country: China
-  people: [cream.camera, embody.credit, maid.human, tank.idea, check.unusual]
-wet:
-  name: Wet
-  founded: 2006
-  country: Spain
-  people: [tiger.velvet, tenant.speak, because.summer, rotate.coyote, better.normal]
-again:
-  name: Again
-  founded: 2013
-  country: UK
-  people: [atom.arena, horse.catalog, detail.moral, load.heavy, reason.exile, tank.voyage, now.satisfy, question.universe, carbon.sunset, barely.pride]
-pizza:
-  name: Pizza
-  founded: 2002
-  country: Spain
-  people: [ignore.lake, valid.wall, device.pistol, blade.increase, maximum.fringe, robot.empower, fuel.myth, tongue.cement]
-link:
-  name: Link
-  founded: 2004
-  country: Spain
-  people: [hip.mom, earth.wage, solid.spray, athlete.dress, debris.define]
-blade:
-  name: Blade
-  founded: 2007
-  country: UK
-  people: [license.lonely, humble.lazy, certain.people, shadow.stay, derive.shed, enroll.income, vacant.pitch, old.boy]
-canoe:
-  name: Canoe
-  founded: 2001
-  country: France
-  people: [sleep.chapter, cat.chuckle, owner.execute, soap.advice, twenty.grace, similar.desk, trial.word, ice.whale]
-earth:
-  name: Earth
-  founded: 2009
-  country: UK
-  people: [grant.spray, possible.radar, hood.diary, nominee.country, crane.segment, family.position]
-excite:
-  name: Excite
-  founded: 2006
-  country: China
-  people: [predict.regular, inhale.visa, face.ridge, bone.sustain, oval.plate, will.focus, work.danger]
-october:
-  name: October
-  founded: 2005
-  country: Spain
-  people: [labor.family, lens.patient, direct.disease, category.room, okay.fever, good.hunt, chase.buddy, lift.salt]
-horn:
-  name: Horn
-  founded: 2004
-  country: France
-  people: [announce.float, prevent.book, margin.wild, repair.link, utility.unveil, vapor.energy, appear.treat, lounge.mystery, regret.service, retire.brick]
-combine:
-  name: Combine
-  founded: 2011
-  country: USA
-  people: [gadget.movie, library.turn, either.hunt, avocado.home, young.bright, atom.wreck]
-pupil:
-  name: Pupil
-  founded: 2002
-  country: France
-  people: [guess.fantasy, reform.usual, note.gather, april.equip, cabin.obtain, title.clay, soon.cannon]
-across:
-  name: Across
+  people: [someone.option, clump.tongue, thrive.limit, guitar.dove, stuff.april, remain.still, into.best]
+zoo:
+  name: Zoo
   founded: 2003
-  country: China
-  people: [lava.oblige, fatigue.vault, crush.payment, start.inherit, jump.sister, hire.used, acid.crack, belt.employ, excuse.toward, alert.income, hazard.program, render.dad, sick.merit]
-uncle:
-  name: Uncle
-  founded: 2010
-  country: USA
-  people: [flat.change, spatial.funny, inquiry.husband, board.magic, worry.gloom, law.hope, embrace.candy, forward.stomach]
-shoe:
-  name: Shoe
-  founded: 2000
+  country: France
+  people: [kite.admit, balance.pulp, exist.setup, shock.armed]
+scorpion:
+  name: Scorpion
+  founded: 2013
   country: Italy
-  people: [surround.tattoo, brown.version, future.chief]
-undo:
-  name: Undo
-  founded: 2006
+  people: [regret.obtain, safe.live, nothing.hammer, remember.catalog, build.march]
+spike:
+  name: Spike
+  founded: 2011
+  country: Germany
+  people: [screen.lyrics, furnace.cycle, pear.hire]
+whisper:
+  name: Whisper
+  founded: 2003
   country: USA
-  people: [skull.recall, that.merge, olympic.people, horror.hole, casino.blossom, decrease.soft]
-tennis:
-  name: Tennis
-  founded: 2010
-  country: Spain
-  people: [possible.parade, multiply.story, wash.obtain, client.must, tent.style]
-gap:
-  name: Gap
-  founded: 2006
-  country: France
-  people: [pilot.such, razor.tool, cage.heavy, oven.skate]
-kick:
-  name: Kick
-  founded: 2004
-  country: France
-  people: [sea.wheel, nasty.refuse, fire.chef]
-dial:
-  name: Dial
-  founded: 2009
-  country: USA
-  people: [medal.poet, device.onion, pilot.meat, vicious.cupboard, mountain.pistol, taxi.sniff]
-nasty:
-  name: Nasty
+  people: [adult.reopen, maximum.approve, marriage.orbit, reopen.labor, afford.galaxy, maple.benefit, portion.tired]
+innocent:
+  name: Innocent
   founded: 2002
+  country: UK
+  people: [away.cycle, middle.dress, soap.during, forum.fossil, virtual.devote, maple.copy, east.trip, receive.coast, cruise.rotate, middle.ball]
+oven:
+  name: Oven
+  founded: 2004
+  country: USA
+  people: [fabric.expose, build.unit, invest.stadium, puppy.firm, rib.reason]
+lend:
+  name: Lend
+  founded: 2002
+  country: Italy
+  people: [recycle.educate, similar.toy, embody.hover, february.army, decorate.horror, steel.fresh]
+clinic:
+  name: Clinic
+  founded: 2008
+  country: USA
+  people: [thrive.perfect, urge.liberty, used.lonely, chef.dust, crime.avoid, water.romance]
+voice:
+  name: Voice
+  founded: 2004
+  country: USA
+  people: [spatial.adapt, surround.autumn, six.gloom, army.stomach, come.tired]
+oak:
+  name: Oak
+  founded: 2001
+  country: Spain
+  people: [detect.chest, animal.insect, afford.supreme, essence.broken, gas.milk, scene.elegant, fatal.shove, script.arch]
+head:
+  name: Head
+  founded: 2000
   country: France
-  people: [detect.choice, bacon.stool, goose.prepare, crisp.manual, wood.robust, develop.worry, possible.vote, jaguar.chuckle, debate.donkey, eternal.cram, ghost.category]
+  people: [member.long, silent.feel, grape.tuition, reflect.worry, weather.couch]
+squeeze:
+  name: Squeeze
+  founded: 2008
+  country: China
+  people: [boost.kit, essence.assault, link.century, shop.shadow]
+ten:
+  name: Ten
+  founded: 2014
+  country: Germany
+  people: [network.month, furnace.hen, decrease.chunk]
+model:
+  name: Model
+  founded: 2005
+  country: China
+  people: [negative.teach, stage.lyrics, rapid.ball, head.faith, iron.awkward]
+flight:
+  name: Flight
+  founded: 2001
+  country: USA
+  people: [garment.vote, smooth.body, kick.alone, drift.famous, guilt.dune, bottom.young, tennis.quantum, spin.explain, crunch.burden, brain.patrol, silver.attack]
+stay:
+  name: Stay
+  founded: 2002
+  country: Spain
+  people: [morning.turn, flush.furnace, link.afraid, crash.milk, box.grass]
+trial:
+  name: Trial
+  founded: 2004
+  country: China
+  people: [dance.punch, figure.behind, grief.moment, shuffle.execute, country.wave, meat.old]
+life:
+  name: Life
+  founded: 2007
+  country: Germany
+  people: [will.length, mule.blind, another.ghost, holiday.kite, prevent.derive, atom.demand, home.alert, flower.magic]
+deliver:
+  name: Deliver
+  founded: 2006
+  country: USA
+  people: [panel.lunar, position.wall, clever.never, few.nature, prefer.romance, sound.team]
 liberty:
   name: Liberty
   founded: 2002
-  country: Italy
-  people: [horror.game, eight.attitude, good.pass, giggle.taxi, slight.exclude, topic.void, paddle.sing, entry.ginger, caught.dog]
-place:
-  name: Place
-  founded: 2002
-  country: USA
-  people: [victory.embark, call.toe, trend.benefit, jungle.fetch, anxiety.volcano, approve.begin]
-damage:
-  name: Damage
+  country: France
+  people: [buddy.essence, aisle.budget, crazy.syrup, forum.mail, strong.inspire, found.injury, fragile.blush, party.spoon, twenty.connect, deposit.travel, nominee.quick, forward.spare, host.present, flat.slender]
+anxiety:
+  name: Anxiety
+  founded: 2000
+  country: China
+  people: [shrimp.tortoise, model.leisure, distance.tape, cross.people, game.second]
+fluid:
+  name: Fluid
+  founded: 2014
+  country: France
+  people: [wasp.wrist, gloom.liquid, upgrade.burst, among.garment, claim.bulk, glow.actual]
+physical:
+  name: Physical
   founded: 2006
+  country: France
+  people: [spy.theme, sniff.midnight, bracket.change, senior.weapon, record.soft, peanut.honey, leader.heavy, obscure.mouse]
+crystal:
+  name: Crystal
+  founded: 2005
+  country: Italy
+  people: [wool.deputy, midnight.curious, already.label, hammer.cool, review.select, vintage.expire, make.cage]
+garlic:
+  name: Garlic
+  founded: 2011
   country: Germany
-  people: [summer.frozen, trim.race, burst.peace, click.chalk, wheel.use, battle.cable]
-charge:
-  name: Charge
+  people: [shock.mind, dress.hint, pull.sea, cube.weird, magnet.recycle, jaguar.trumpet, ripple.super]
+such:
+  name: Such
+  founded: 2000
+  country: Spain
+  people: [absurd.soap, copy.credit, artist.marble, pen.deputy, clinic.topple, cake.salmon, strategy.glow]
+salon:
+  name: Salon
+  founded: 2012
+  country: USA
+  people: [bunker.pledge, uphold.matter, genuine.pass, orbit.nature, quit.once, marine.actress, mango.struggle]
+trust:
+  name: Trust
+  founded: 2014
+  country: Spain
+  people: [reform.fancy, tell.area, surround.lion, zebra.drink, assault.joy, close.juice, celery.shoe, vote.dolphin]
+social:
+  name: Social
+  founded: 2005
+  country: China
+  people: [kangaroo.pact, speed.solid, city.swallow, kick.snow, bomb.mountain, erosion.price, runway.swift, unveil.provide, absent.birth]
+method:
+  name: Method
+  founded: 2000
+  country: Spain
+  people: [pact.thing, marble.athlete, either.kidney, fault.gospel, core.certain, title.clay, sick.hospital]
+carry:
+  name: Carry
+  founded: 2014
+  country: Italy
+  people: [need.wonder, enforce.price, peace.panda]
+okay:
+  name: Okay
+  founded: 2013
+  country: Italy
+  people: [stage.lady, shield.parent, excuse.purse, divert.effort, clever.boost, breeze.visa, movie.air, toy.song, service.behind, talent.guilt, near.original, degree.ghost]
+rose:
+  name: Rose
+  founded: 2002
+  country: Italy
+  people: [steel.cream, park.core, unlock.border, floor.bubble]
+repeat:
+  name: Repeat
+  founded: 2012
+  country: Italy
+  people: [tiger.cliff, observe.thought, night.suspect, census.over, ketchup.six, title.idle]
+artist:
+  name: Artist
+  founded: 2012
+  country: UK
+  people: [embark.fiscal, under.life, boss.arrest, often.giant, element.course, often.letter, erupt.sister]
+cream:
+  name: Cream
+  founded: 2012
+  country: Spain
+  people: [refuse.guitar, circle.mandate, knife.spray, suggest.payment, wood.romance, giant.celery, train.clean]
+mouse:
+  name: Mouse
+  founded: 2006
+  country: Spain
+  people: [predict.output, mixture.pitch, title.radio, sound.success]
+dinner:
+  name: Dinner
+  founded: 2003
+  country: Italy
+  people: [regret.scatter, duty.profit, health.legend, disagree.distance, punch.become]
+talent:
+  name: Talent
   founded: 2008
   country: Spain
-  people: [album.embark, museum.labor, credit.deposit, focus.surface, network.age, thought.control, yard.evidence, carpet.hidden, place.escape, affair.fault]
-theme:
-  name: Theme
-  founded: 2001
-  country: France
-  people: [sweet.mail, captain.rifle, tube.absurd, kick.dinner, prosper.assist, range.fortune]
-identify:
-  name: Identify
-  founded: 2003
-  country: China
-  people: [artefact.behind, wash.dream, keep.reason, squirrel.little, banana.cute, wedding.mirror, raw.safe, pole.off, speed.parrot]
-actress:
-  name: Actress
-  founded: 2008
-  country: China
-  people: [mean.doll, slow.light, glass.modify, people.daughter, pledge.assist, family.dolphin, thrive.aware, shoot.height]
-half:
-  name: Half
-  founded: 2005
+  people: [claim.concert, plastic.plate, business.comic, whip.bitter, basket.evidence, since.blind, spatial.ostrich, trophy.tray, guess.theory]
+enter:
+  name: Enter
+  founded: 2009
   country: UK
-  people: [sheriff.rhythm, crawl.version, mercy.simple, cable.palm]
-oven:
-  name: Oven
+  people: [divorce.army, mutual.glance, laugh.globe, code.drill, scorpion.wise, engine.toilet, sound.method, manual.prepare, feature.attitude, enroll.cheap, scan.slam, civil.return, case.arrow]
+vocal:
+  name: Vocal
   founded: 2011
   country: Italy
-  people: [garden.vote, about.session]
-hundred:
-  name: Hundred
-  founded: 2014
+  people: [little.unfold, mention.brisk, elegant.right, floor.shrug, enroll.home, tank.bottom, panther.pride, car.write, layer.mind, basic.debris, retire.crazy, list.creek, apple.payment]
+pitch:
+  name: Pitch
+  founded: 2006
+  country: Spain
+  people: [business.document, dizzy.morning, satisfy.display, sight.trouble, tell.vapor, afford.day, sweet.repair, topple.balance, boost.blood, filter.off, machine.admit, explain.green, enjoy.abstract]
+diamond:
+  name: Diamond
+  founded: 2003
   country: USA
-  people: [manual.increase, midnight.coin, silver.push, input.virus, twice.fetch, mind.peanut, safe.monkey, kiss.eyebrow]
+  people: [patient.force, seed.alcohol, inject.sibling, tongue.jelly, audit.cool, blanket.file, pilot.please, tennis.vault, output.scrub, gesture.world, swarm.despair, impact.mix, year.lift]
+glare:
+  name: Glare
+  founded: 2010
+  country: Italy
+  people: [stairs.agent, walk.charge, door.mean, armed.setup, oblige.skirt, goose.concert, unhappy.silly, ready.better, wing.weapon]
+three:
+  name: Three
+  founded: 2000
+  country: Germany
+  people: [wink.electric, inside.shadow, favorite.luxury, first.supply, start.used, poet.weird]
+pilot:
+  name: Pilot
+  founded: 2004
+  country: China
+  people: [blood.wrap, load.steak, purity.pen, globe.carbon, axis.purpose, nature.friend, memory.siege, tortoise.stove]
+biology:
+  name: Biology
+  founded: 2013
+  country: USA
+  people: [provide.donkey, melt.put, sudden.door, gift.cupboard]
+cash:
+  name: Cash
+  founded: 2004
+  country: France
+  people: [airport.silly, elevator.label, decrease.eager, vanish.legal, entire.teach, hedgehog.library, debate.analyst]
+blossom:
+  name: Blossom
+  founded: 2003
+  country: China
+  people: [solar.fine, caught.goat, decline.hobby, design.approve, actor.member, negative.venture, over.pony, audit.crack]
+enter:
+  name: Enter
+  founded: 2004
+  country: UK
+  people: [divorce.army, mutual.glance, laugh.globe, code.drill, scorpion.wise, engine.toilet, sound.method, manual.prepare, feature.attitude, enroll.cheap, scan.slam, civil.return, case.arrow]
+bounce:
+  name: Bounce
+  founded: 2011
+  country: Italy
+  people: [action.dish, baby.galaxy, dish.outer, require.risk, purchase.two, spot.clinic, picnic.goat, pioneer.found, cool.cliff]
+stool:
+  name: Stool
+  founded: 2005
+  country: Germany
+  people: [visa.front, hub.transfer, vintage.field]
+fossil:
+  name: Fossil
+  founded: 2009
+  country: China
+  people: [wine.riot]
+heavy:
+  name: Heavy
+  founded: 2004
+  country: China
+  people: [luggage.floor, plate.pass, arch.trust, essence.salad, raw.turtle, scorpion.symbol, wear.hidden]
+flower:
+  name: Flower
+  founded: 2008
+  country: Spain
+  people: [blue.group, badge.feel, sudden.anxiety, sick.helmet, twin.tone, forest.damage, elevator.sugar, amazing.glance, mutual.planet]
+light:
+  name: Light
+  founded: 2006
+  country: Spain
+  people: [small.target, praise.screen, life.organ, verify.copy, dry.joke]
+congress:
+  name: Congress
+  founded: 2012
+  country: Germany
+  people: [gate.skirt, news.resemble, road.maze, fatal.cause, lobster.word, fan.style, behave.sample]
+tiger:
+  name: Tiger
+  founded: 2006
+  country: UK
+  people: [foil.solution, sort.dolphin, margin.zebra, flee.punch, help.review, fresh.clump, illegal.view, short.taste, merge.act, phrase.youth]
+traffic:
+  name: Traffic
+  founded: 2012
+  country: USA
+  people: [myself.van, furnace.provide, prepare.impose, mosquito.sand, banana.match, local.student, desk.tooth, juice.jungle, door.secret]
+danger:
+  name: Danger
+  founded: 2000
+  country: France
+  people: [stable.maid, tide.fee, liar.clerk]
+future:
+  name: Future
+  founded: 2011
+  country: France
+  people: [three.arrest, legend.wrist, zebra.famous, unaware.offer, mind.timber, farm.kitten, scare.orchard, earn.attend, mention.middle, laugh.damage]
+ability:
+  name: Ability
+  founded: 2006
+  country: China
+  people: [minimum.surround, inject.ride, truck.dumb, own.bachelor, rabbit.casual, gallery.negative, promote.bunker]
+atom:
+  name: Atom
+  founded: 2006
+  country: Italy
+  people: [seek.raw, finish.zero, eagle.junior, smooth.kick, mention.there]
+walk:
+  name: Walk
+  founded: 2006
+  country: UK
+  people: [promote.obvious, argue.lesson, coin.brother, farm.path, fossil.about, clerk.trim, side.cousin]
+sorry:
+  name: Sorry
+  founded: 2009
+  country: Spain
+  people: [uncle.chimney, scrub.blanket, air.credit, digital.alpha, whale.kingdom, jazz.grain, write.sibling, mass.term]
+divide:
+  name: Divide
+  founded: 2005
+  country: China
+  people: [clap.about, hundred.aisle, quick.banner, flavor.help, true.pottery, judge.clean, ride.neck, odor.seminar, exact.ramp]
+two:
+  name: Two
+  founded: 2005
+  country: Germany
+  people: [diary.settle, comfort.because, magnet.artist, drama.pen, foil.scene, cactus.real]
+ridge:
+  name: Ridge
+  founded: 2007
+  country: UK
+  people: [tube.duck, appear.add, monster.safe, term.frost, planet.opinion]
+include:
+  name: Include
+  founded: 2010
+  country: Spain
+  people: [affair.wheel, also.roof, athlete.sausage, observe.sorry, habit.visa, opera.scan]
+cabbage:
+  name: Cabbage
+  founded: 2010
+  country: UK
+  people: [suffer.runway, shop.blind, arrive.angle, purity.juice, hybrid.nice, believe.that, adult.fire, thank.occur, pill.tourist]
+gym:
+  name: Gym
+  founded: 2002
+  country: China
+  people: [cushion.ketchup, vast.zero, initial.recipe, memory.pear, token.test, curious.fiction, wedding.update, lava.image]
+dress:
+  name: Dress
+  founded: 2009
+  country: Germany
+  people: [tobacco.notice, crash.grab, version.group, business.brick, skull.convince, alcohol.unaware, avoid.manage, world.price]
+another:
+  name: Another
+  founded: 2006
+  country: UK
+  people: [entire.estate, replace.side, green.zone, tumble.dwarf, embrace.december, mouse.color, become.venture, express.confirm, copper.dilemma]
+observe:
+  name: Observe
+  founded: 2012
+  country: China
+  people: [prosper.orphan, betray.oppose, logic.harbor, echo.casino, banana.desk, fancy.buddy, hen.worth, creek.party, pair.there, bridge.visual]
+sense:
+  name: Sense
+  founded: 2008
+  country: Italy
+  people: [basket.search, riot.worth, area.embark, onion.damp, vast.shoe, arrive.panther, excuse.useful]
+cause:
+  name: Cause
+  founded: 2004
+  country: China
+  people: [december.helmet, market.program, chair.toss, flip.round, fun.purity, doll.citizen]
+edit:
+  name: Edit
+  founded: 2011
+  country: France
+  people: [sunset.cause, climb.romance, insane.enroll, region.damage, street.culture]
+pioneer:
+  name: Pioneer
+  founded: 2000
+  country: France
+  people: [fiction.rather, catalog.brain, know.you, envelope.funny, barrel.clutch, light.blast, tuition.mix, permit.pear, shuffle.notice]
+shuffle:
+  name: Shuffle
+  founded: 2004
+  country: China
+  people: [twice.myth, involve.silk, reason.aim, amused.reveal, diagram.twin, rich.syrup]
+sand:
+  name: Sand
+  founded: 2010
+  country: France
+  people: [remind.east, topple.define, trophy.avocado, apple.tornado, rebel.scatter, milk.need, mad.ladder, raise.nasty, proud.bounce, wet.pluck]
+assist:
+  name: Assist
+  founded: 2003
+  country: China
+  people: [bounce.chronic, garage.people, before.vocal, mistake.outside, mystery.strong, test.car]
+sure:
+  name: Sure
+  founded: 2002
+  country: USA
+  people: [moon.silk, choice.trophy, order.owner, squirrel.expand, elder.acid, young.spot, rapid.alien, finish.upgrade]
+since:
+  name: Since
+  founded: 2003
+  country: Italy
+  people: [install.satisfy, flag.mango]
+oblige:
+  name: Oblige
+  founded: 2002
+  country: Italy
+  people: [sun.mind, cradle.fall, obey.kid, monkey.stool, tray.sure, shield.spread, pig.rescue, blur.public]
+make:
+  name: Make
+  founded: 2013
+  country: Spain
+  people: [trophy.quarter, tackle.cup, twice.erode, void.family]
+ship:
+  name: Ship
+  founded: 2011
+  country: France
+  people: [cupboard.clown, alone.gadget, finger.foil, dynamic.drama, sense.display, gaze.seed, brave.loan]

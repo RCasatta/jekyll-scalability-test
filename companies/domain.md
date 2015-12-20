@@ -5,4 +5,4 @@ title: Domain
 permalink: /companies/domain.html
 ---
 
-Dettagli della compagnia Domain
+Company details...

@@ -5,4 +5,4 @@ title: Title Clay
 permalink: people/title.clay.html
 ---
 
-Dettagli della persona
+Person details...

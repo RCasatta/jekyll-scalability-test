@@ -5,4 +5,4 @@ title: Cause
 permalink: /companies/cause.html
 ---
 
-Dettagli della compagnia Cause
+Company details...

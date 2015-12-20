@@ -5,4 +5,4 @@ title: Cash
 permalink: /companies/cash.html
 ---
 
-Dettagli della compagnia Cash
+Company details...
