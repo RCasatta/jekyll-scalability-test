@@ -6,3 +6,5 @@ permalink: /companies/domain.html
 ---
 
 Company details...
+
+Ciao!
